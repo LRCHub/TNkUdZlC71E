@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "エンパープル",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-05T14:48:14.931180Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンパープル",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_エンパープル_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンパープル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_エンパープル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エンパープル -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_エンパープル_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンパープル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)\u001fエンパープル (feat. 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希 & 鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_エンパープル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_エンパープル_(feat._宵崎奏,_朝比奈まふゆ,_東雲絵名,_暁山瑞希_&_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンパープル",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/05_エンパープル_はるまきごはん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンパープル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_エンパープル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
